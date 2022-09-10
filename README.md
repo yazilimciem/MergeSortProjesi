@@ -20,3 +20,5 @@ Big-O gösterimini yazınız.
             [8 11 12 16 21 22]
             
 O(nlogn) 
+
+[www.patika.dev](https://app.patika.dev/)
